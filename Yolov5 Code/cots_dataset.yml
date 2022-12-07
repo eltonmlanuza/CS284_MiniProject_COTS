@@ -1,0 +1,8 @@
+
+path: ../tensorflow-great-barrier-reef/yolo
+train: images/train
+val: images/val
+test:
+
+nc: 1
+names: [ 'starfish' ]

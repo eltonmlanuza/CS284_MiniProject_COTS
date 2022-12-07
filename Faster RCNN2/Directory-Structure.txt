@@ -1,0 +1,19 @@
+Faster RCNN/
+
+./tensorflow-great-barrier-reef
+../cross-validation/
+---train-5folds.csv
+---train-10folds.csv
+../rcnn_models_100/
+---/fasterrcnn_resnet50_fpn-e99.bin
+../train-validation-split/
+---train-0.01.csv
+---train-0.1.csv
+---train-0.2.csv
+---train-0.05.csv
+---train-test.csv
+../videos
+
+CSVPrepare.py
+train.py
+inference.ipynb

@@ -1,0 +1,11 @@
+Directory structure should be:
+
+↪ tensorflow-great-barrier-reef/
+↪ yolov5/
+↪ prep.py
+↪ traning_script.sh
+↪ train-0.1.csv
+↪ cots_dataset.yml
+
+
+Files indicated above should be on the same directory
